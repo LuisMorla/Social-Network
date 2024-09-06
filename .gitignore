@@ -1,0 +1,46 @@
+# Archivos de configuración de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de publicación
+publish/
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+
+# Archivos de configuración de usuario
+*.config
+*.env
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de dependencias
+node_modules/
+wwwroot/lib/
+
+# Archivos de configuración de Rider
+.idea/
+*.sln.iml
+
+# Archivos de configuración de Mac
+.DS_Store
+
+# Archivos de configuración de Linux
+*.swp
+
+# Archivos de migraciones de Entity Framework Core
+Migrations/
